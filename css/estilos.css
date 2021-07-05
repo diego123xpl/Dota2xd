@@ -11,7 +11,7 @@
 
 body {
     font-family: 'open sans';
-    background: url(img/fondo3.jpg);
+    background: url(../img/fondo3.jpg);
     color: wheat;
 }
 
@@ -120,7 +120,7 @@ div.main {
 }
 
 div.banner {
-    background-image: src="img/arcaneqop.png";
+    background-image: url(../img/arcaneqop.png);
     background-size: cover;
     background-position-x: center;
     background-repeat: no-repeat;
